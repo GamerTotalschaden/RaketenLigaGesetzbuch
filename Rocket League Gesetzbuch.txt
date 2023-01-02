@@ -1,0 +1,89 @@
+Rocket League Gesetzbuch (RLGB)
+
+Erstellt von Jasper "Perjas" Mundil, Max "Senfeule" Hantke, Andreas "Pandrow" Baur.
+
+   §1 Wumme
+	(1) Damit ein Tor als "Wumme" bezeichnet werden darf, muss
+	    der Ball ohne weitere Berührung des Balles durch den
+	    Gegner:
+		1. eine Geschwindigkeit von mehr als einschließlich
+		   120 km/h erreicht haben,
+			oder
+		2. eine Geschwindigkeit von mehr als einschließlich 
+		   110 km/h erreicht haben und unter den Vorausset-
+		   zungen des §1 (2) gut positioniert gewesen sein.
+	
+	(2) Unter "gut positioniert" versteht man Schüsse, die:
+		1. sehr nahe unter der Latte,
+			oder
+		2. in den sogenannten "Top Corner", also die obere
+		   rechte bzw. linke Ecke des Tores gingen.
+	
+	(3) Vorbehaltlich der Absätze (1) und (2) darf das Tor nicht
+	    in den Spielmodi "Rumble", "Hockey" und sämtlichen Event-
+	    Modi (auch bekannt als "Extra Modi" bzw. Englisch:
+	    "extra modes") erzielt worden sein.
+   
+   §1a Kranke Wumme
+	(1) Eine "kranke Wumme" bezeichnet einen Schuss, der unter
+	    den gleichen Vorraussetzungen gemäß §1 (1), (2) und (3):
+		1. eine Geschwindigkeit von mehr als einschließlich
+		   130 km/h vorweist,
+			oder
+		2. eine Geschwindigkeit von mehr als einschließlich
+		   120 km/h vorweist und unter den Vorraussetzungen
+		   des §1 (2) gut positioniert ist.
+
+   §2 Das letzte Spiel
+	(1) Das letzte Spiel einer Rocket League Sitzung ist stets 
+	    vor Beginn ebendieses letzten Spiels der Sitzung anzukündigen.
+	
+	(2) Wird das letzte Spiel nicht form- und fristgerecht ankündigt, 
+	    gerät der jeweilige Spieler in Verzug. Dies erzwingt folglich - 
+	    sofern dazu von mindestens einem anderen Teilnehmer der Sitzung 
+	    aufgefordert - eine zusätzliche Runde.
+
+	(3) Wird das letzte Spiel vorzeitig mutwillig von der betreffenden Partei
+	    beendet, zählt das Spiel als abgebrochen und wird somit nicht
+	    als letztes Spiel gemäß §2 (1) gewertet; in diesem Falle liegt
+	    ein Regelverstoß vor. Das letzte Spiel ist in der gleichen Sitzung
+	    von der jeweiligen Person unverzüglich nachzureichen.
+
+	(4) *ausnahmen* - Vorschlag:
+	    Sollte ein Teilnehmer die Rocket League-Sitzung aus unvorhersehbaren
+	    technischen Gründen und aus Gründen höherer Gewalt vorzeitig und ohne
+	    Ankündigung beenden müssen, entbindet das den Mitspieler von der
+	    Verpflichtung, das letzte Spiel nach §2 (1) ankündigen zu müssen.
+
+    (5) *ausnahme 2* - Vorschlag:
+	    Sind sich alle Teilnehmer einig, die Sitzung zu beenden, so tritt
+	    die Notwendigkeit, das letzte Spiel nach §2 (1) ankündigen zu müssen,
+	    ebenfalls nicht in Kraft.
+
+	(6) *konsequenzen, falls ablehnung* - Vorschlag:
+	    Weigert sich die Person, das letzte Spiel nach §2 (1) auch nach 
+	    Aufforderung gemäß §2 (2) anzukündigen und durchzuführen, so
+	    wird dies als eine sog. "Snitchung" gewertet.
+
+  §3 Die "Rule One"
+	(1) Die Regel Nummer Eins (im englischsprachigen Raum auch bekannt
+	    als die sog. "Rule One") darf im Allgemeinen nicht gebrochen 
+	    werden. 
+
+	(2) Ausnahmen des Absatzes 1 ist eine "Rule One" zwischen zwei Mit-
+	    gliedern derselben Mannschaft und eine "Rule One" mit einer
+	    computergesteuerten Entität. In beiden Fällen ist die Brechung
+	    der "Rule One" ausnahmsweise gestattet, und ein Verstoß wird
+	    nicht geahndet.
+
+	(3) Die "Rule One" beschreibt eine Pattsituation bei der zwei Spieler
+	    mit der vorderen Stoßstange aneinander stehen. In dieser Situation
+	    darf keiner der beiden Spieler sich aus dieser Situation befreien
+	    indem er eine andere Aktion ausführt, als nach vorne zu beschleunigen.
+
+	(4) Die einzige Möglichkeit aus der "Rule One"-Situation zu entkommen, ist
+	    sich von einem dritten Spieler aus dieser Position durch einen Stoß
+	    befreien zu lassen.
+
+	
+
